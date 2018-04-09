@@ -2,6 +2,10 @@
 title: "Market Leaders"
 author: "Mark Smiley"
 date: "December 7, 2017"
+output:
+  html_document: 
+    keep_md: yes
+  pdf_document: default
 ---
 
 
