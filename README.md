@@ -159,7 +159,7 @@ display.brewer.all(
 )
 ```
 
-![](MarketLeaders_files/figure-html/color blind palettes-1.png)<!-- -->
+![](MarketLeaders_files/figure-html/color_blind_palettes-1.png)<!-- -->
 
 
 ## Modifying palettes
